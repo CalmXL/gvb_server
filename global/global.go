@@ -10,5 +10,5 @@ import (
 var (
 	Config *config.Config
 	DB     *gorm.DB
-	Log *logrus.Logger
+	Log    *logrus.Logger
 )
